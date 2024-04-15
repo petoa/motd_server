@@ -1,0 +1,8 @@
+{
+    "motd": "To be, or not to be",
+    "encoding": "utf-8",
+    "server": {
+        "host": "localhost",
+        "port": 5070
+    }
+}

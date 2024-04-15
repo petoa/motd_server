@@ -1,0 +1,8 @@
+{
+    "motd": "That is the question",
+    "encoding": "utf-8",
+    "server": {
+        "host": "localhost",
+        "port": 0
+    }
+}
